@@ -1,6 +1,6 @@
 ## Hi there👋
 
-I'm Abdulhamid Adio, and I am a web developer. currently learning frontEnd [@microverse](https://microverse.org) I really enjoy learning languages and frameworks like React and React Native. 
+> I'm Abdulhamid Adio, and I am a web developer. currently learning frontEnd [@microverse](https://microverse.org) I really enjoy learning languages and frameworks like React and React Native. 
 
 ### Skills and Experience
 * ⚛ React
