@@ -1,4 +1,4 @@
-# Hi therem, I'm Abdulhamid 👋
+# Hi there, I'm Abdulhamid 👋
 
 - 🔭 I’m currently working on ... FrontEnd Development
 - 🌱 I’m currently learning ... HTML, CSS, JavaScript
