@@ -8,3 +8,5 @@
 - 📫 How to reach me: ... 
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I'm half finished
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdulhamiid&show_icons=true&theme=radical)
