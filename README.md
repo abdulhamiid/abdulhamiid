@@ -2,7 +2,10 @@
 **I'm Abdulhamid Adio, I am a Full Stack Web Developer with experience building front-end and back-end for applications, ranging from APIs web and mobile. I really enjoy learning languages and frameworks.**
 
 <br>
-<img align="" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="95%"/>
+
+<div align="center">
+  <img align="" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="45%"/>
+</div>
 
 <!-- <img src="https://media.tenor.com/images/df8c44a1d20ab367fdcb21880985fd33/tenor.gif" align="right"  width="30%"/> -->
 <h3> 🛠 &nbsp;Tech Stack</h3>
