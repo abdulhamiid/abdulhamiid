@@ -5,7 +5,7 @@
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="230"/>
 <p><em>Remote Full-stack web developer ready for adventure</em><img src="https://user-images.githubusercontent.com/95297251/166106881-1d6af30e-13dc-45ed-a18b-47db55f822eb.gif" width="50"></p>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Abdulhamid%20Adio-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ellievillalejos/)](https://www.linkedin.com/in/abdulhamid_adio/)
+[![Linkedin Badge](https://img.shields.io/badge/-Abdulhamid%20Adio-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ellievillalejos/)](https://www.linkedin.com/in/abdulhamid-adio)
 [![Twitter Badge](https://img.shields.io/badge/-@abdulhamid_adio_-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/asia_magana)](https://twitter.com/abdulhamid_adio)
 ### <img src="https://media.giphy.com/media/kbVuid1Ak3uEHJUMVO/giphy.gif" width="50"> A little more about me...
 
@@ -26,7 +26,7 @@ const Abdulhamid = {
 - 🔭 I’m currently working on  [Backend development](https://maganaasiati.github.io)
 - 🌱 I’m currently learning Web development
 - 👯 I’m looking to collaborate on open-source projects
-- 📫 How to reach me: - GitHub: [@abdulhamiid](https://github.com/abdulhamiid) ,Twitter: [@abdulhamid_adio](https://twitter.com/abdulhamid_adio), LinkedIn: [Adio Abdulhamid](https://www.linkedin.com/in/abdulhamid_adio/)
+- 📫 How to reach me: - GitHub: [@abdulhamiid](https://github.com/abdulhamiid) ,Twitter: [@abdulhamid_adio](https://twitter.com/abdulhamid_adio), LinkedIn: [Adio Abdulhamid](https://www.linkedin.com/in/abdulhamid-adio)
 - 😄 Pronouns: he/his
 - ⚡ Fun fact: I have 6month of remote work experience with devs from all over the world
 - 💬 ask me about anything, i am happy to help;
