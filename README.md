@@ -13,11 +13,11 @@
 const Abdulhamid = {
   lookingFor: "Front-end developer" || "Full-stack web developer",
   pronouns: ["Abdulhamid Adio"],
-  code: [JavaScript, C++, HTML/CSS, Semantic UI, Bootstrap, React, Ruby, Ruby on rails],
+  code: [JavaScript, C++, HTML/CSS, Semantic UI, Bootstrap, React, Redux, Ruby, Ruby on Rails],
   askMeAbout: [JavaScript, food recipes, renovation shows],
   challenge: "I take great pleasure in hands-on experience, Collaboration and teamwork.",
-  aboutMe: ['I have 6month of remote work experience with devs
-  from all over the world', 'I have hands-on experience in cpanel web adminstration ,
+  aboutMe: ['I have 6 months of remote work experience with devs
+  from all over the world', 'I have hands-on experience in cpanel web adminstration,
   I have also great communication skills and remote collaboration skills through pair programming.
   I have so much passion in learning technologies that border fullstack web development.']
 }
@@ -28,8 +28,8 @@ const Abdulhamid = {
 - 👯 I’m looking to collaborate on open-source projects
 - 📫 How to reach me: - GitHub: [@abdulhamiid](https://github.com/abdulhamiid) ,Twitter: [@abdulhamid_adio](https://twitter.com/abdulhamid_adio), LinkedIn: [Adio Abdulhamid](https://www.linkedin.com/in/abdulhamid-adio)
 - 😄 Pronouns: he/his
-- ⚡ Fun fact: I have 6month of remote work experience with devs from all over the world
-- 💬 ask me about anything, i am happy to help;
+- ⚡ Fun fact: I have 6 months of remote work experience with devs from all over the world
+- 💬 Ask me about anything, I am happy to help.
 
 <br>
 
@@ -59,7 +59,7 @@ const Abdulhamid = {
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
   ![InDesign](https://img.shields.io/badge/-InDesign-333333?style=flat&logo=adobe-indesign)
 
-📈 My github stats
+<h3>📈 My github stats</h3>
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulhamiid&hide=less,scss,hack&show_icons=true&theme=chartreuse-dark&layout=compact&langs_count=8" alt="Abdulhamid adio github stat" align="center"/>
