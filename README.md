@@ -28,11 +28,11 @@ const aboutAdioAbdulhamida = {
 
 - 🔭 I’m currently working on  [Backend development](https://maganaasiati.github.io)
 - 🌱 I’m currently learning Web development
-- 👯 I’m looking to collaborate on open-source projects
+- 👯 I’m looking to collaborate on an open-source projects
 - 📫 How to reach me: - GitHub: [@abdulhamiid](https://github.com/abdulhamiid), Twitter: [@abdulhamid_adio](https://twitter.com/abdulhamid_adio), LinkedIn: [Adio Abdulhamid](https://www.linkedin.com/in/abdulhamid-adio)
 - 😄 Pronouns: he/his
 - ⚡ Fun fact: I have 6 months of remote work experience with devs from all over the world
-- 💬 Ask me about anything, and I am happy to help.
+- 💬 Ask me about anything, and I am happy to help
 
 <br>
 
