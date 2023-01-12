@@ -10,16 +10,19 @@
 ### <img src="https://media.giphy.com/media/kbVuid1Ak3uEHJUMVO/giphy.gif" width="50"> A little more about me...
 
 ```javascript
-const Abdulhamid = {
-  lookingFor: "Front-end developer" || "Full-stack web developer",
-  pronouns: ["Abdulhamid Adio"],
-  code: [JavaScript, C++, HTML/CSS, Semantic UI, Bootstrap, React, Redux, Ruby, Ruby on Rails],
-  askMeAbout: [JavaScript, food recipes, renovation shows],
-  challenge: "I take great pleasure in hands-on experience, Collaboration and teamwork.",
-  aboutMe: ['I have 6 months of remote work experience with devs
-  from all over the world', 'I have hands-on experience in cpanel web adminstration,
-  I have also great communication skills and remote collaboration skills through pair programming.
-  I have so much passion in learning technologies that border fullstack web development.']
+const aboutAdioAbdulhamida = {
+    fullName: "Adio Abdulhamid Tunde",
+    pronouns: ["He", "Him"],
+    nationality: "Nigerian",
+    jobStatus: ["Student && Code Reviewer at Microverse"],
+    hobbies: ["Playing Football","Reading","Watching Football","Athletics","Solving Coding Challenges"],
+    techStack:["PHP", "Python", "CSS", "JavaScript", "Ruby", "HTML", "SQL", "Bootstrap"],
+    isWorkingNow: false,
+    telephoneNumber: "+2348143783218",
+    socialMedias: ["LinkedIn", "WhatsApp", "Twitter"],
+    codingEnviroment: "Github",
+    nowLearning: Full stack web developement at Microverse
+    lookingForNewOpportunities: true    
 }
 ```
 
